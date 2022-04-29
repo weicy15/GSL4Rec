@@ -23,7 +23,7 @@ python data_process.py
 To train the model(s) in the paper:
 
 ```setup
-python train.py
+python main.py
 ```
 > Output: the file "output.tar"
 
